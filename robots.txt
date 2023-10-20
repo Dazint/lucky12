@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mampir4d.xy2401.com/sitemap.xml
